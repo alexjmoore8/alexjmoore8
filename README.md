@@ -1,6 +1,6 @@
 
 <h1 align="center">Greetings, I'm Alex!</h1>
-<h3 align="center">I am a computer science student interested in software development, DevOps, tech ethics and accessibility.</h3>
+<h3 align="center">I am a computer science student interested in software development, DevOps, tech ethics, and accessibility.</h3>
 
 - 🌱 I’m currently learning **all the full stack skills.**
 
