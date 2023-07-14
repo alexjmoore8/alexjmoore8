@@ -13,7 +13,6 @@ I am a computer science master's student interested in software development, Dev
 - DevOps Tools: Docker, Jenkins, GitHub Actions, Terraform, Git
 - Monitoring and Visualization: Grafana, Prometheus
 - Container Orchestration: Kubernetes, Helm, Karpenter
-- Operating Systems: Linux
 - Version Control: Git, GitHub
 - Code Security: GitHub Advanced Security
 
