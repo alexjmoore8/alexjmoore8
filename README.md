@@ -1,6 +1,6 @@
 # Greetings, I'm Alex!
   
-- 😄 Pronouns: **they/them**
+- Pronouns: **they/them**
   
 ## About Me
 
