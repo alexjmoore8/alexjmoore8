@@ -1,8 +1,3 @@
-
-<h1 align="center">Greetings, I'm Alex!</h1>
-<h3 align="center">I am a computer science student interested in software development, DevOps, tech ethics, and accessibility.</h3>
-
-
 # Greetings, I'm Alex!
   
 - 😄 Pronouns: **they/them**
@@ -17,7 +12,7 @@ I am a computer science master's student interested in software development, Dev
 - Cloud Platforms: Amazon Web Services (AWS)
 - DevOps Tools: Docker, Jenkins, GitHub Actions, Terraform, Git
 - Monitoring and Visualization: Grafana, Prometheus
-- Container Orchestration: Kubernetes, Helm
+- Container Orchestration: Kubernetes, Helm, Karpenter
 - Operating Systems: Linux
 - Version Control: Git, GitHub
 - Code Security: GitHub Advanced Security
