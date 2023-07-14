@@ -21,7 +21,7 @@ I am a computer science master's student interested in software development, Dev
 
 - [LinkedIn](https://linkedin.com/in/alexmoore8/)
 
-Feel free to reach out if you have any questions or if you'd like to discuss tech ethics, accessibility, or any other fascinating topics. 
+Feel free to reach out if you have any questions or if you'd like to discuss DevOps, tech ethics, accessibility, or any other fascinating topics. 
 I look forward to connecting with you! 😄
 
 
