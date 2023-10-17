@@ -8,11 +8,11 @@ I am a computer science master's student interested in software development, Dev
 
 ## Skills and Expertise
 
-- Programming Languages: Python, Java, HCL, YAML, Bash, SQL, PowerShell, C
+- Programming Languages: Python, Java, Node.js, Bash, SQL
 - Cloud Platforms: Amazon Web Services (AWS)
-- DevOps Tools: Docker, Jenkins, GitHub Actions, Terraform, Git
+- DevOps Tools: Docker, Jenkins, GitHub Actions, Terraform, Ansible
 - Monitoring and Visualization: Grafana, Prometheus
-- Container Orchestration: Kubernetes, Helm, Karpenter
+- Container Orchestration: Kubernetes, Helm, Karpenter, Kustomize, Argo CD
 - Version Control: Git, GitHub
 - Code Security: GitHub Advanced Security
 
