@@ -1,24 +1,12 @@
 # Greetings, I'm Alex!
-  
-- Pronouns: **they/them**
-  
+    
 ## About Me
 
-I am a computer science master's student interested in software development, DevOps, tech ethics, and accessibility. I thrive in fast-paced environments that require creative problem-solving, critical thinking, and superb attention to detail. I enjoy finding patterns and creating systems with the most efficient functionality possible.
-
-## Skills and Expertise
-
-- Programming Languages: Python, Java, Node.js, Bash, SQL
-- Cloud Platforms: Amazon Web Services (AWS)
-- DevOps Tools: Docker, Jenkins, GitHub Actions, Terraform, Ansible
-- Monitoring and Visualization: Grafana, Prometheus
-- Container Orchestration: Kubernetes, Helm, Karpenter, Kustomize, Argo CD
-- Version Control: Git, GitHub
-- Code Security: GitHub Advanced Security
+I am a computer science master's student finishing up my degree in December 2023.  I am currently working as a DevOps Engineer. My most recent projects include automating different CI/CD steps with Github Actions. The technologies I use daily in this are Terraform, Kubernetes, AWS, GitHub Actions, and Bash. I also have experience coding in Python, Java, and Node JS. I enjoy digging in to complex projects and delivering well organized, robust functionality.
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/alexmoore8/)
+- [LinkedIn](https://linkedin.com/in/alexjmoore8/)
 
 Feel free to reach out if you have any questions or if you'd like to discuss DevOps, tech ethics, accessibility, or any other fascinating topics. 
 I look forward to connecting with you! 😄
