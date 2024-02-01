@@ -8,7 +8,7 @@ I am a computer science master's student finishing up my degree in December 2023
 
 - [LinkedIn](https://linkedin.com/in/alexjmoore8/)
 
-Feel free to reach out if you have any questions or if you'd like to discuss DevOps, tech ethics, accessibility, or any other fascinating topics. 
+Feel free to reach out if you have any questions or if you'd like to discuss DevOps, tech ethics, or any other fascinating topics. 
 I look forward to connecting with you! 😄
 
 
